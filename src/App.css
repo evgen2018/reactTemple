@@ -129,6 +129,18 @@ hr{
     margin-top: -10px;
   }
 
+  hr{
+    margin: 25px 0;
+  }
+
+  .button-icon{
+    font-size: 40px;
+  }
+
+  .header{
+    padding: 25px 15px 10px 15px;
+  }
+
   .vocabulary-text{
     font-size: 25px;
   }
