@@ -1,5 +1,11 @@
 body{
   background: #242c2f;
+  min-height: 100vh;
+}
+
+#root,
+.App{
+  min-height: 100vh;
 }
 
 .header{
@@ -91,6 +97,7 @@ hr{
 
 .footer{
   display: flex;
+  padding-bottom: 15px;
 }
 
 .footer-item{
@@ -121,7 +128,6 @@ hr{
 .border-rigtht-white{
   border-right: 2px solid #eee;
 }
-
 
 /*media query*/
 @media (max-width: 500px) {
